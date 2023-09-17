@@ -14,7 +14,7 @@ if __name__ == '__main__':
     # Sampling frequency
     freq = 16000
 
-    # Recording duration
+    # Recording durations
     duration = 10
 
     # Start recorder with the given values of
@@ -40,7 +40,7 @@ if __name__ == '__main__':
         encoded = f.read()
     print("file read")
 
-    fs.put(encoded, filename="recording1.wav")
+    fs.put(encoded)
     print("file uploaded")
 
     client.close()
