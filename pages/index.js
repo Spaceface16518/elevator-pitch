@@ -58,10 +58,9 @@ export default function Home() {
 
           height: "90vh",
           width: "90vw",
-          background: rgba(255, 255, 255, 0.25),
-          fliter: blur(14)
+          background: 'rgba(255, 255, 255, 0.25)',
+          filter: 'blur(14)'
 
-            
           }}>
             <h3>Documentation &rarr;</h3>
   
