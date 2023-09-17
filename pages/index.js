@@ -15,10 +15,10 @@ export default function Home() {
       <div style={{
         zIndex: -1,
         position: 'fixed',
-        width:"100vw",
-        height: "120vh"
-
-
+        top: 0,
+        left: 0,
+        width: '100vw',
+        height: '100vh',
       }}>
 
         <Image
@@ -29,21 +29,6 @@ export default function Home() {
           />
       </div>
       
-
-  
-        {/* <Card style={{
-
-          height: "90vh",
-          width: "90vw",
-          background: rgba(255, 255, 255, 0.25),
-          fliter: blur(14)
-          
-
-        }}>
-
-        </Card> */}
-  
-
       <main>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
