@@ -58,7 +58,7 @@ export default function Home() {
 
           height: "90vh",
           width: "90vw",
-          
+          background: rgba(255, 255, 255, 0.25),
           fliter: blur(14)
 
             
