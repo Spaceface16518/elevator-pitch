@@ -1,0 +1,7 @@
+pymongo
+transformers
+accelerate
+torch
+torchaudio
+evaluate
+huggingsound
