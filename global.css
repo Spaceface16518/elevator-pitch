@@ -1,37 +1,36 @@
 body {
-    margin: 0;
-    line-height: normal;
-  }
-  
-  :root {
-    /* fonts */
-    --font-league-spartan: "League Spartan";
-    --font-inter: Inter;
-    --chart-text: Roboto;
-  
-    /* font sizes */
-    --font-size-2xs-3: 10.3px;
-    --font-size-6xs-2: 6.2px;
-    --font-size-base-5: 15.5px;
-    --chart-text-size: 11px;
-    --font-size-12xl: 31px;
-  
-    /* Colors */
-    --color-white: #fff;
-    --color-gray-100: #949494;
-    --color-darkslategray-100: #072e2d;
-    --color-black: #000;
-  
-    /* Gaps */
-    --gap-9xs-5: 3.5px;
-    --gap-8xs: 5px;
-  
-    /* Paddings */
-    --padding-6xs: 7px;
-    --padding-3xs: 10px;
-  
-    /* Border radiuses */
-    --br-6xs-4: 6.4px;
-    --br-6xs-5: 6.5px;
-  }
-  
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-league-spartan: "League Spartan";
+  --font-inter: Inter;
+  --chart-text: Roboto;
+
+  /* font sizes */
+  --font-size-2xs-3: 10.3px;
+  --font-size-6xs-2: 6.2px;
+  --font-size-base-5: 15.5px;
+  --chart-text-size: 11px;
+  --font-size-12xl: 31px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #949494;
+  --color-darkslategray-100: #072e2d;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-9xs-5: 3.5px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-6xs: 7px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-6xs-4: 6.4px;
+  --br-6xs-5: 6.5px;
+}
